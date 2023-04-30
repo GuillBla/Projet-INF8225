@@ -1,8 +1,4 @@
-# Projet-INF8225
-Analyse de l'état de l'art des algorithmes de Reinforcement Learning
-
-
-# DQN Adventure: from Zero to State of the Art
+# Projet-INF8225 :  Analyse comparative de l'état de l'art des algorithmes de Reinforcement Learning
 
 Ce projet consiste à présenter une analyse comparative de 4 algorithmes de Reinforcement Learning :
 
